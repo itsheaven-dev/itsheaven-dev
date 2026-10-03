@@ -46,25 +46,31 @@ I enjoy turning ideas and designs into real products with clean interfaces, smoo
 
 ## ⚡ Tech Stack
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
 ### Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 
-<br><br>
+</td>
+<td align="center" width="33%">
 
 ### Backend & Database
 
 <img src="https://skillicons.dev/icons?i=php,mysql" />
 
-<br><br>
+</td>
+<td align="center" width="33%">
 
 ### Tools & Design
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -110,7 +116,7 @@ Focused on:
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=itsheaven-dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A78BFA&text_color=FFFFFF&ring_color=8B5CF6" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsheaven-dev&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsheaven-dev&layout=compact&langs_count=6&hide=hack&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" />
 
 </div>
 
